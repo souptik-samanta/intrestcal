@@ -1,4 +1,4 @@
-
+//hi
 function simpleInterest(s, r, t)  {
           a = s*r*t/100;
           return a;
